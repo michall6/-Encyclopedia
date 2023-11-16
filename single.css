@@ -1,0 +1,25 @@
+
+main .container h2{
+    margin-bottom: 0;
+}
+main .container p {
+    margin: 0;
+    font-size: medium ;
+}
+main .container p {
+    font-size: 1.7em;
+}
+main .container #border a {
+   font-weight: bold;
+}
+main .row th {
+    text-align: center;
+} 
+ 
+
+@media screen and (max-width:768px){
+    main .container p {
+        font-size: 1em;
+    }
+}
+
